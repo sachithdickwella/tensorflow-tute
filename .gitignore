@@ -136,3 +136,5 @@ dmypy.json
 
 # OS ignore
 .DS-Store/
+
+logs/
