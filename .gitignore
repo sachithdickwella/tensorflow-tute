@@ -135,6 +135,6 @@ dmypy.json
 *.iml
 
 # OS ignore
-.DS-Store/
+**/.DS-Store/
 
-logs/
+**/logs/
